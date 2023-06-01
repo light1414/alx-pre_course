@@ -1,1 +1,1 @@
-My first software code
+Coding made easy
