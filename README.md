@@ -1,1 +1,1 @@
-Coding made easy by alx
+Coding for alx
